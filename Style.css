@@ -1,0 +1,56 @@
+
+
+
+
+body.AnaSayfa {
+    background-image: url("img/arkaplan.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+	font-size:12px;
+	color:yellow;
+}
+
+
+body.Genel {
+    background-color: lightgreen;
+}
+
+
+body.Orta {
+    background-color: lightyellow;
+}
+
+
+body.Ucuz {
+    background-color: lightcoral;
+}
+
+
+body.Pahali {
+    background-color: lightgray;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+p, body {
+	
+	line-height: 1.6;     
+    margin-bottom: 15px
+    font-size: 16px;
+}
+
+
